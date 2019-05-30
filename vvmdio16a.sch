@@ -443,7 +443,7 @@ U 1 1 5D0F0D27
 P 3950 3350
 F 0 "U1" H 3950 4531 50  0000 C CNN
 F 1 "MCP23017" H 3950 4440 50  0000 C CNN
-F 2 "SMD_Packages:SOIC-28" H 4000 2400 50  0001 L CNN
+F 2 "Housings_SOIC:SOIC-28W_7.5x18.7mm_Pitch1.27mm" H 4000 2400 50  0001 L CNN
 F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/20001952C.pdf" H 4200 4350 50  0001 C CNN
 	1    3950 3350
 	-1   0    0    -1  
